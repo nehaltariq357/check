@@ -40,3 +40,14 @@ return  `${name} is not admin`
 
 console.log(isAdmin(admin))
 console.log(isAdmin(user))
+
+
+
+//// some changes
+
+
+
+
+
+
+

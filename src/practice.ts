@@ -40,3 +40,7 @@ class Child extends Parent {
 
 const check2: Child = new Child("karachi", "nehal", 19, true);
 console.log(check2.ChildMethod());
+
+
+
+//// some changes
